@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Abyssinia Getachew 👋
 
-<!--
-**abyssiniagetachew4-cmyk/abyssiniagetachew4-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student (Expected Graduation: 2026)  
+📍 Addis Ababa, Ethiopia  
 
-Here are some ideas to get you started:
+I am passionate about building digital systems and web-based platforms.  
+I enjoy developing structured, user-friendly applications and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Skills
+
+- HTML, CSS, JavaScript
+- PHP & MySQL
+- Database Design
+- UI/UX Fundamentals
+- Git & GitHub
+- Basic AI Concepts
+
+---
+
+## 🚀 Projects
+
+### 📚 Online Book Publishing System
+A multi-role web-based platform (Author, Reader, Editor, Admin) with authentication, dashboards, and dynamic database integration.
+
+### 🛒 Fresh Mart – E-Commerce Website
+A structured online marketplace system with product management and backend functionality using PHP & MySQL.
+
+---
+
+## 📫 Contact Me
+Email: abyssiniagetachew4@gmail.com  
+Phone: 0901725476
