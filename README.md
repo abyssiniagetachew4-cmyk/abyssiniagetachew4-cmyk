@@ -1,7 +1,7 @@
 # Hi, I'm Abyssinia Getachew 👋
 
-💻 **Computer Science Graduate 
-📍 **Addis Ababa, Ethiopia**
+💻 **Computer Science Graduate** | 📍 **Addis Ababa, Ethiopia**
+🔗 [LinkedIn](https://www.linkedin.com/in/abyssinia-getachew-747b91354)
 
 I am a Computer Science graduate passionate about building practical digital solutions and continuously improving my technical skills. I enjoy developing structured, user-friendly applications, solving technical problems, and learning new technologies.
 
